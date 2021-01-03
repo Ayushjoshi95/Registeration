@@ -1,0 +1,29 @@
+#signin_form
+{
+    background-color:white;
+    width:65%;
+    margin-left: 18%;
+    margin-top: 40px;
+    border-radius:25px;
+    margin-bottom:35px;
+
+}
+
+#main_body{
+
+    background: rgb(81,169,115);
+    background: linear-gradient(90deg, rgba(81,169,115,1) 25%, rgba(130,151,108,1) 45%, rgba(238,215,102,1) 100%);
+}
+
+@media screen and (max-width:550px)
+{
+
+    #signin_form
+{
+    
+    width:95%;
+    margin-left: 3%;
+    
+
+}
+}
